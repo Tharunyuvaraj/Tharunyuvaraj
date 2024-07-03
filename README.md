@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Tharunyuvaraj
 - 👀 I’m interested in python
-- 🌱 I’m currently learning c
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning frontend development
+- 📫 Reach me at tharunyuva19@gmail.com or contact-7200013775
 
 <!---
 Tharunyuvaraj/Tharunyuvaraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
